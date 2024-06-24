@@ -8,6 +8,7 @@ It can be about anything!
 - Claude3
 - Gemini-1.5
 - Llama 3
+- GPT -3.5
 
 ## Video Generation
 - SORA
