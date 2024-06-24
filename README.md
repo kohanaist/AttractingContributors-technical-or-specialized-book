@@ -8,8 +8,10 @@ It can be about anything!
 - Claude3
 - Gemini-1.5
 - Llama 3
+- Llama 3 Youko 8B (rinna/llama-3-youko-8b)
 
 ## Video Generation
 - SORA
 - KLING
 - LUMA Dream Machine
+
