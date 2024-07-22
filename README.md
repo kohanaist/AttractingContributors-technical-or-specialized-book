@@ -31,4 +31,5 @@ Goal - I want contributors to help me list some interesting technical books or s
 10.  Deep Learning with PyTorch
 11.  Introduction to Linear Algebra
 12.  seigyokougaku / Osami Saito
-13.  Hitoshi Iba,Unity Learning Artificial Intelligence and Artificial Life through Simulation
+13.  Federated Learningフェデレーテッド ラーニング プライバシー保護下における機械学習/QiangYang
+14.  Hitoshi Iba,Unity Learning Artificial Intelligence and Artificial Life through Simulation
